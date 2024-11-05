@@ -15,6 +15,9 @@ More about: [https://keras.io/api/applications/vgg/](https://keras.io/api/applic
 **-numpy**  
 **-pandas**  
 
+## Requirements installation:
+`pip install -r requirements.txt`
+
 ## Trained models
 [keras file](https://drive.google.com/file/d/1GoNb9SFNb48lg1sPdWrEIuJsIdGAdrVm/view?usp=drive_link)  
 [h5 file](https://drive.google.com/file/d/1H3ohKAIGdPCsYU3nRintvbpXMGXjJG_Y/view?usp=sharing)
