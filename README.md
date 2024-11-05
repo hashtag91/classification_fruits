@@ -3,7 +3,7 @@ Fruit image classification model.
 
 ## Keras applications (Model)
 **VGG16**  
-More about: [VGG16](https://keras.io/api/applications/vgg/)
+More about: [https://keras.io/api/applications/vgg/](https://keras.io/api/applications/vgg/)
 
 ## Requirements:
 **-tensorflow**  
@@ -16,7 +16,7 @@ More about: [VGG16](https://keras.io/api/applications/vgg/)
 **-pandas**  
 
 ## Trained models
-[keras file](https://drive.google.com/file/d/1GoNb9SFNb48lg1sPdWrEIuJsIdGAdrVm/view?usp=drive_link)
+[keras file](https://drive.google.com/file/d/1GoNb9SFNb48lg1sPdWrEIuJsIdGAdrVm/view?usp=drive_link)  
 [h5 file](https://drive.google.com/file/d/1H3ohKAIGdPCsYU3nRintvbpXMGXjJG_Y/view?usp=sharing)
 
 ### Fruits recognized by the model
